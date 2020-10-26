@@ -10,9 +10,9 @@ namespace pooPokemonApp
 		{
 			this.InicializaLista();
 		}
-		private List<Pokemon> pokemons;
+		private List<PokemonPlus> pokemons;
 
-		public List<Pokemon> Pokemons
+		public List<PokemonPlus> Pokemons
 		{
 			get { return pokemons; }
 		}
@@ -20,26 +20,26 @@ namespace pooPokemonApp
 		private void InicializaLista()
 		{
 			// Instanciar a lista
-			this.pokemons = new List<Pokemon>();
-			Pokemon p = new Pokemon("Bulbasauro", "pokémon tipo planta");
+			this.pokemons = new List<PokemonPlus>();
+			PokemonPlus p = new PokemonPlus("Bulbasauro", "pokémon tipo planta", 300);
 			this.pokemons.Add(p);
-			p = new Pokemon("Mew", "lendário psiquico");
+			p = new PokemonPlus("Mew", "lendário psiquico", 130);
 			this.pokemons.Add(p);
-			p = new Pokemon("Mewtwo", "lendário psiquico");
+			p = new PokemonPlus("Mewtwo", "lendário psiquico", 400);
 			this.pokemons.Add(p);
-			p = new Pokemon("Giratina", "lendário fantasma");
+			p = new PokemonPlus("Giratina", "lendário fantasma", 420);
 			this.pokemons.Add(p);
-			p = new Pokemon("Flygon", "pokémon dragão");
+			p = new PokemonPlus("Flygon", "pokémon dragão", 340);
 			this.pokemons.Add(p);
-			p = new Pokemon("Metagross", "pokémon tipo metal");
+			p = new PokemonPlus("Metagross", "pokémon tipo metal", 120);
 			this.pokemons.Add(p);
-			p = new Pokemon("Metagross", "pokémon tipo toxico");
+			p = new PokemonPlus("Metagross", "pokémon tipo toxico", 76);
 			this.pokemons.Add(p);
-			p = new Pokemon("Metagross", "pokémon tipo terra");
+			p = new PokemonPlus("Metagross", "pokémon tipo terra", 128);
 			this.pokemons.Add(p);
-			p = new Pokemon("Muk", "pokémon tipo metal");
+			p = new PokemonPlus("Muk", "pokémon tipo metal", 85);
 			this.pokemons.Add(p);
-			p = new Pokemon("Kyogre", "lendário tipo água");
+			p = new PokemonPlus("Kyogre", "lendário tipo água", 89);
 			this.pokemons.Add(p);
 		}
 
