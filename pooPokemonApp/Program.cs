@@ -6,9 +6,7 @@ namespace pooPokemonApp
     {
         static void Main(string[] args)
         {
-            Pokemon p = new Pokemon();
-            p.Nome = "Bulbasauro";
-            p.Descricao = ("Bulbasauro é um pokemon tipo planda...");
+            Pokemon p = new Pokemon("Bulbasauro", "Bulbasauro é um pokemon tipo planda...");
             p.ExibirDadosPokemon();
             Console.ReadKey();
         }
