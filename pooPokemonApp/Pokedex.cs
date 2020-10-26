@@ -42,5 +42,13 @@ namespace pooPokemonApp
 			p = new Pokemon("Kyogre", "lendário tipo água");
 			this.pokemons.Add(p);
 		}
+
+		public void ListarPokemons()
+		{
+			for (int i = 0; i < this.Pokemons.Count; i++)
+			{
+				this.Pokemons[i].ExibirDadosPokemon();
+			}
+		}
 	}
 }

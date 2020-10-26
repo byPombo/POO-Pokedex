@@ -7,8 +7,7 @@ namespace pooPokemonApp
         static void Main(string[] args)
         {
             Pokedex pokedex = new Pokedex();
-            Pokemon p = pokedex.Pokemons[1];
-            p.ExibirDadosPokemon();
+            pokedex.ListarPokemons();
             Console.ReadKey();
         }
     }
