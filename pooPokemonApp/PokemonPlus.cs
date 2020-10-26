@@ -12,7 +12,7 @@ namespace pooPokemonApp
         }
         public PokemonPlus(string nome, string descricao, int poder) : base(nome, descricao)
         {
-            this.Poder = 0;
+            this.Poder = poder;
         }
         public int Poder { get; set; }
 
