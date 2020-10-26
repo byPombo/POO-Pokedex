@@ -1,0 +1,13 @@
+C:\Users\danii\source\repos\pooPokemonApp\pooPokemonApp\bin\Debug\netcoreapp3.1\pooPokemonApp.exe
+C:\Users\danii\source\repos\pooPokemonApp\pooPokemonApp\bin\Debug\netcoreapp3.1\pooPokemonApp.deps.json
+C:\Users\danii\source\repos\pooPokemonApp\pooPokemonApp\bin\Debug\netcoreapp3.1\pooPokemonApp.runtimeconfig.json
+C:\Users\danii\source\repos\pooPokemonApp\pooPokemonApp\bin\Debug\netcoreapp3.1\pooPokemonApp.runtimeconfig.dev.json
+C:\Users\danii\source\repos\pooPokemonApp\pooPokemonApp\bin\Debug\netcoreapp3.1\pooPokemonApp.dll
+C:\Users\danii\source\repos\pooPokemonApp\pooPokemonApp\bin\Debug\netcoreapp3.1\pooPokemonApp.pdb
+C:\Users\danii\source\repos\pooPokemonApp\pooPokemonApp\obj\Debug\netcoreapp3.1\pooPokemonApp.csprojAssemblyReference.cache
+C:\Users\danii\source\repos\pooPokemonApp\pooPokemonApp\obj\Debug\netcoreapp3.1\pooPokemonApp.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\pooPokemonApp\pooPokemonApp\obj\Debug\netcoreapp3.1\pooPokemonApp.AssemblyInfoInputs.cache
+C:\Users\danii\source\repos\pooPokemonApp\pooPokemonApp\obj\Debug\netcoreapp3.1\pooPokemonApp.AssemblyInfo.cs
+C:\Users\danii\source\repos\pooPokemonApp\pooPokemonApp\obj\Debug\netcoreapp3.1\pooPokemonApp.dll
+C:\Users\danii\source\repos\pooPokemonApp\pooPokemonApp\obj\Debug\netcoreapp3.1\pooPokemonApp.pdb
+C:\Users\danii\source\repos\pooPokemonApp\pooPokemonApp\obj\Debug\netcoreapp3.1\pooPokemonApp.genruntimeconfig.cache
